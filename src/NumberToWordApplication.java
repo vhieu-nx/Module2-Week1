@@ -271,7 +271,6 @@ public class NumberToWordApplication {
                     case 9:
                         hangchuc = " ninety";
                         break;
-
                 }
                 System.out.println(hangtram + hangchuc + hangdonvi);
             }

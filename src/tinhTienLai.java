@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class tinhTienLai {
     public static void main(String[] args) {
-        double money = 1.0;
-        int month = 1;
-        double interset_rate = 1.0;
+        double money;
+        int month ;
+        double interset_rate ;
         Scanner input = new Scanner(System.in);
         System.out.println("Enter investment amount: ");
         money = input.nextDouble();
